@@ -14,47 +14,47 @@
       "beat": "hook",
       "text": "One grain of wheat, doubled sixty three times.",
       "start": 0.4,
-      "end": 3.53,
+      "end": 3.52,
       "words": [
         {
           "w": "One",
           "start": 0.4,
-          "end": 0.581
+          "end": 0.578
         },
         {
           "w": "grain",
-          "start": 0.626,
-          "end": 0.818
+          "start": 0.612,
+          "end": 0.812
         },
         {
           "w": "of",
-          "start": 0.863,
-          "end": 0.919
+          "start": 0.844,
+          "end": 0.9
         },
         {
           "w": "wheat,",
-          "start": 0.976,
-          "end": 1.292
+          "start": 0.955,
+          "end": 1.311
         },
         {
           "w": "doubled",
-          "start": 1.371,
-          "end": 1.688
+          "start": 1.545,
+          "end": 1.867
         },
         {
           "w": "sixty",
-          "start": 1.732,
-          "end": 2.037
+          "start": 1.978,
+          "end": 2.333
         },
         {
           "w": "three",
-          "start": 2.082,
-          "end": 2.274
+          "start": 2.389,
+          "end": 2.6
         },
         {
           "w": "times.",
-          "start": 2.308,
-          "end": 3.516
+          "start": 2.644,
+          "end": 3.511
         }
       ]
     },
@@ -62,87 +62,87 @@
       "beat": "setup",
       "text": "A king offered an inventor any reward he wanted. He asked for wheat on a chessboard.",
       "start": 3.6,
-      "end": 8.84,
+      "end": 9.35,
       "words": [
         {
           "w": "A",
           "start": 3.6,
-          "end": 3.739
+          "end": 3.716
         },
         {
           "w": "king",
-          "start": 3.821,
+          "start": 3.797,
           "end": 4.03
         },
         {
           "w": "offered",
-          "start": 4.099,
-          "end": 4.401
+          "start": 4.122,
+          "end": 4.413
         },
         {
           "w": "an",
           "start": 4.436,
-          "end": 4.506
+          "end": 4.494
         },
         {
           "w": "inventor",
-          "start": 4.552,
-          "end": 4.982
+          "start": 4.54,
+          "end": 4.958
         },
         {
           "w": "any",
-          "start": 5.074,
-          "end": 5.26
+          "start": 5.04,
+          "end": 5.214
         },
         {
           "w": "reward",
-          "start": 5.33,
-          "end": 5.632
+          "start": 5.283,
+          "end": 5.597
         },
         {
           "w": "he",
-          "start": 5.678,
-          "end": 5.736
+          "start": 5.643,
+          "end": 5.713
         },
         {
           "w": "wanted.",
-          "start": 5.806,
-          "end": 6.247
+          "start": 5.783,
+          "end": 6.235
         },
         {
           "w": "He",
-          "start": 6.63,
-          "end": 6.746
+          "start": 6.932,
+          "end": 7.048
         },
         {
           "w": "asked",
-          "start": 6.816,
-          "end": 7.025
+          "start": 7.118,
+          "end": 7.315
         },
         {
           "w": "for",
-          "start": 7.06,
-          "end": 7.164
+          "start": 7.338,
+          "end": 7.443
         },
         {
           "w": "wheat",
-          "start": 7.211,
-          "end": 7.385
+          "start": 7.513,
+          "end": 7.722
         },
         {
           "w": "on",
-          "start": 7.42,
-          "end": 7.478
+          "start": 7.78,
+          "end": 7.849
         },
         {
           "w": "a",
-          "start": 7.513,
-          "end": 7.547
+          "start": 7.884,
+          "end": 7.907
         },
         {
           "w": "chessboard.",
-          "start": 7.582,
-          "end": 8.848
+          "start": 7.954,
+          "end": 9.359
         }
       ]
     },
@@ -150,77 +150,77 @@
       "beat": "setup",
       "text": "One grain on the first square. Two on the next. Then four, then eight.",
       "start": 10.4,
-      "end": 15.73,
+      "end": 15.97,
       "words": [
         {
           "w": "One",
           "start": 10.4,
-          "end": 10.667
+          "end": 10.655
         },
         {
           "w": "grain",
-          "start": 10.702,
-          "end": 10.946
+          "start": 10.69,
+          "end": 10.899
         },
         {
           "w": "on",
-          "start": 10.992,
-          "end": 11.062
+          "start": 10.946,
+          "end": 11.004
         },
         {
           "w": "the",
-          "start": 11.097,
-          "end": 11.166
+          "start": 11.027,
+          "end": 11.097
         },
         {
           "w": "first",
-          "start": 11.213,
-          "end": 11.433
+          "start": 11.131,
+          "end": 11.34
         },
         {
           "w": "square.",
-          "start": 11.468,
-          "end": 11.956
+          "start": 11.364,
+          "end": 11.84
         },
         {
           "w": "Two",
-          "start": 12.165,
-          "end": 12.374
+          "start": 12.118,
+          "end": 12.292
         },
         {
           "w": "on",
-          "start": 12.455,
-          "end": 12.525
+          "start": 12.362,
+          "end": 12.432
         },
         {
           "w": "the",
-          "start": 12.559,
-          "end": 12.629
+          "start": 12.478,
+          "end": 12.548
         },
         {
           "w": "next.",
-          "start": 12.676,
-          "end": 13.117
+          "start": 12.583,
+          "end": 13.047
         },
         {
           "w": "Then",
-          "start": 13.268,
-          "end": 13.465
+          "start": 13.326,
+          "end": 13.523
         },
         {
           "w": "four,",
-          "start": 13.546,
-          "end": 13.987
+          "start": 13.616,
+          "end": 14.092
         },
         {
           "w": "then",
-          "start": 14.104,
-          "end": 14.289
+          "start": 14.417,
+          "end": 14.603
         },
         {
           "w": "eight.",
-          "start": 14.359,
-          "end": 15.741
+          "start": 14.661,
+          "end": 15.973
         }
       ]
     },
@@ -233,32 +233,32 @@
         {
           "w": "Pause.",
           "start": 16.2,
-          "end": 16.709
+          "end": 16.653
         },
         {
           "w": "How",
-          "start": 17.207,
-          "end": 17.332
+          "start": 17.344,
+          "end": 17.472
         },
         {
           "w": "much",
-          "start": 17.366,
-          "end": 17.501
+          "start": 17.501,
+          "end": 17.639
         },
         {
           "w": "wheat",
-          "start": 17.535,
-          "end": 17.694
+          "start": 17.688,
+          "end": 17.836
         },
         {
           "w": "is",
-          "start": 17.727,
-          "end": 17.796
+          "start": 17.876,
+          "end": 17.934
         },
         {
           "w": "that?",
-          "start": 17.841,
-          "end": 18.916
+          "start": 17.974,
+          "end": 18.92
         }
       ]
     },
@@ -266,67 +266,67 @@
       "beat": "reveal",
       "text": "Halfway across the board, four billion grains. A couple hundred tonnes. Easy.",
       "start": 19.0,
-      "end": 24.29,
+      "end": 24.62,
       "words": [
         {
           "w": "Halfway",
           "start": 19.0,
-          "end": 19.37
+          "end": 19.359
         },
         {
           "w": "across",
-          "start": 19.398,
-          "end": 19.664
+          "start": 19.38,
+          "end": 19.633
         },
         {
           "w": "the",
-          "start": 19.692,
-          "end": 19.748
+          "start": 19.664,
+          "end": 19.728
         },
         {
           "w": "board,",
-          "start": 19.787,
-          "end": 20.108
+          "start": 19.76,
+          "end": 20.15
         },
         {
           "w": "four",
-          "start": 20.279,
-          "end": 20.507
+          "start": 20.34,
+          "end": 20.561
         },
         {
           "w": "billion",
-          "start": 20.554,
-          "end": 20.829
+          "start": 20.604,
+          "end": 20.878
         },
         {
           "w": "grains.",
-          "start": 20.867,
-          "end": 21.321
+          "start": 20.931,
+          "end": 21.406
         },
         {
           "w": "A",
-          "start": 21.89,
-          "end": 21.937
+          "start": 21.87,
+          "end": 21.934
         },
         {
           "w": "couple",
-          "start": 21.985,
-          "end": 22.184
+          "start": 21.975,
+          "end": 22.186
         },
         {
           "w": "hundred",
-          "start": 22.213,
-          "end": 22.402
+          "start": 22.229,
+          "end": 22.44
         },
         {
           "w": "tonnes.",
-          "start": 22.43,
-          "end": 22.838
+          "start": 22.461,
+          "end": 22.957
         },
         {
           "w": "Easy.",
-          "start": 23.407,
-          "end": 24.61
+          "start": 23.589,
+          "end": 24.614
         }
       ]
     },
@@ -334,47 +334,47 @@
       "beat": "reveal",
       "text": "But the full board needs eighteen quintillion grains.",
       "start": 24.7,
-      "end": 27.58,
+      "end": 27.48,
       "words": [
         {
           "w": "But",
           "start": 24.7,
-          "end": 24.874
+          "end": 24.851
         },
         {
           "w": "the",
-          "start": 24.897,
-          "end": 24.967
+          "start": 24.874,
+          "end": 24.944
         },
         {
           "w": "full",
-          "start": 25.013,
-          "end": 25.211
+          "start": 25.002,
+          "end": 25.222
         },
         {
           "w": "board",
           "start": 25.269,
-          "end": 25.489
+          "end": 25.501
         },
         {
           "w": "needs",
           "start": 25.536,
-          "end": 25.733
+          "end": 25.745
         },
         {
           "w": "eighteen",
-          "start": 25.803,
-          "end": 26.174
+          "start": 25.861,
+          "end": 26.267
         },
         {
           "w": "quintillion",
-          "start": 26.233,
-          "end": 26.743
+          "start": 26.337,
+          "end": 26.836
         },
         {
           "w": "grains.",
-          "start": 26.801,
-          "end": 27.579
+          "start": 26.883,
+          "end": 27.486
         }
       ]
     },
@@ -382,67 +382,67 @@
       "beat": "twist",
       "text": "That's more wheat than the whole world grows in a thousand years.",
       "start": 28.0,
-      "end": 31.2,
+      "end": 31.57,
       "words": [
         {
           "w": "That's",
           "start": 28.0,
-          "end": 28.29
+          "end": 28.255
         },
         {
           "w": "more",
-          "start": 28.348,
-          "end": 28.522
+          "start": 28.313,
+          "end": 28.511
         },
         {
           "w": "wheat",
-          "start": 28.58,
+          "start": 28.557,
           "end": 28.778
         },
         {
           "w": "than",
           "start": 28.813,
-          "end": 28.917
+          "end": 28.929
         },
         {
           "w": "the",
-          "start": 28.952,
-          "end": 29.022
+          "start": 28.964,
+          "end": 29.033
         },
         {
           "w": "whole",
-          "start": 29.068,
-          "end": 29.277
+          "start": 29.091,
+          "end": 29.335
         },
         {
           "w": "world",
-          "start": 29.312,
-          "end": 29.521
+          "start": 29.37,
+          "end": 29.602
         },
         {
           "w": "grows",
-          "start": 29.567,
-          "end": 29.811
+          "start": 29.66,
+          "end": 29.939
         },
         {
           "w": "in",
-          "start": 29.846,
-          "end": 29.904
+          "start": 29.974,
+          "end": 30.032
         },
         {
           "w": "a",
-          "start": 29.939,
-          "end": 29.962
+          "start": 30.067,
+          "end": 30.09
         },
         {
           "w": "thousand",
-          "start": 30.02,
-          "end": 30.38
+          "start": 30.136,
+          "end": 30.45
         },
         {
           "w": "years.",
-          "start": 30.438,
-          "end": 31.204
+          "start": 30.508,
+          "end": 31.576
         }
       ]
     },
@@ -450,67 +450,67 @@
       "beat": "twist",
       "text": "And the last square alone holds more than all the others combined.",
       "start": 31.7,
-      "end": 35.95,
+      "end": 35.59,
       "words": [
         {
           "w": "And",
           "start": 31.7,
-          "end": 31.874
+          "end": 31.886
         },
         {
           "w": "the",
-          "start": 31.921,
-          "end": 31.99
+          "start": 31.932,
+          "end": 32.002
         },
         {
           "w": "last",
           "start": 32.048,
-          "end": 32.28
+          "end": 32.315
         },
         {
           "w": "square",
-          "start": 32.315,
-          "end": 32.606
+          "start": 32.362,
+          "end": 32.664
         },
         {
           "w": "alone",
-          "start": 32.652,
-          "end": 32.977
+          "start": 32.698,
+          "end": 33.0
         },
         {
           "w": "holds",
-          "start": 33.024,
-          "end": 33.267
+          "start": 33.058,
+          "end": 33.302
         },
         {
           "w": "more",
-          "start": 33.325,
-          "end": 33.488
+          "start": 33.372,
+          "end": 33.558
         },
         {
           "w": "than",
-          "start": 33.523,
-          "end": 33.639
+          "start": 33.592,
+          "end": 33.697
         },
         {
           "w": "all",
-          "start": 33.709,
-          "end": 33.894
+          "start": 33.732,
+          "end": 33.836
         },
         {
           "w": "the",
-          "start": 33.941,
-          "end": 34.01
+          "start": 33.883,
+          "end": 33.952
         },
         {
           "w": "others",
-          "start": 34.068,
-          "end": 34.312
+          "start": 34.01,
+          "end": 34.254
         },
         {
           "w": "combined.",
-          "start": 34.37,
-          "end": 35.972
+          "start": 34.301,
+          "end": 35.601
         }
       ]
     },
@@ -518,7 +518,7 @@
       "beat": "loop",
       "text": "One grain. Sixty three doublings.",
       "start": 36.5,
-      "end": 38.61,
+      "end": 39.37,
       "words": [
         {
           "w": "One",
@@ -527,23 +527,23 @@
         },
         {
           "w": "grain.",
-          "start": 36.825,
-          "end": 37.243
+          "start": 36.837,
+          "end": 37.278
         },
         {
           "w": "Sixty",
-          "start": 37.754,
-          "end": 38.114
+          "start": 37.882,
+          "end": 38.265
         },
         {
           "w": "three",
-          "start": 38.172,
-          "end": 38.381
+          "start": 38.323,
+          "end": 38.532
         },
         {
           "w": "doublings.",
-          "start": 38.427,
-          "end": 39.24
+          "start": 38.567,
+          "end": 39.379
         }
       ]
     }
