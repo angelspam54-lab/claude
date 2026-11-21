@@ -29,11 +29,11 @@ const serveUrl = await bundle({ entryPoint: path.join(root, 'src', 'index.ts'), 
 let n = 0;
 for (const shot of manifest) {
   if (onlyIds.length && !onlyIds.includes(shot.id)) continue;
-  const composition = await selectComposition({ serveUrl, id: shot.id });
+  const composition = await selectComposition({ serveUrl, id: shot.id, browserExecutable: process.env.BROWSER_EXEC, chromeMode: process.env.CHROME_MODE || 'headless-shell' });
 
   if (stillMode) {
     const out = path.join(outDir, `${shot.id}.png`);
-    await renderStill({
+    await renderStill({ browserExecutable: process.env.BROWSER_EXEC, chromeMode: process.env.CHROME_MODE || 'headless-shell',
       serveUrl, composition, output: out, scale: SCALE, overwrite: true,
       frame: Math.floor(composition.durationInFrames * 0.6),
       imageFormat: shot.transparent ? 'png' : 'jpeg',
@@ -42,7 +42,7 @@ for (const shot of manifest) {
   } else {
     const transparent = !!shot.transparent;
     const out = path.join(outDir, `${shot.id}.${transparent ? 'mov' : 'mp4'}`);
-    await renderMedia({
+    await renderMedia({ browserExecutable: process.env.BROWSER_EXEC, chromeMode: process.env.CHROME_MODE || 'headless-shell',
       serveUrl, composition, outputLocation: out, scale: SCALE, overwrite: true,
       codec: transparent ? 'prores' : 'h264',
       proResProfile: transparent ? '4444' : undefined,
